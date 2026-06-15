@@ -1,0 +1,3 @@
+On ne présente plus le concours [castor informatique](https://castor-informatique.fr/) qui nous régale chaque année avec ses exercices faisables dès l'école primaire et qui n'en perdent pas moins d'intérêt en NSI.
+
+Bien utilisé, ils peuvent être utiliser de manière très pertinente aux lycées : introduction d'une notion, remédiation autour d'un concept, analyse des structures de données sous-jacentes au regard des structures étudiées en classe... Finalement seule l'imagination nous limite... Le plus long étant finalement de parcourir cette base d'exercice qui s'enrichit d'année en année pour analyser chacun de ses exercices.

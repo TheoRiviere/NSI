@@ -1,0 +1,37 @@
+# Onglet 1
+
+essai pour voir
+
+Dans cette partie nous allons réfléchir à la façon d'utiliser les exercices proposés par le concours "Castor Informatique" pour approcher une notion, remédier à un concept, analyser une situation pour déterminer le concept informatique sous-jacent.
+lien : CS-unplugged,
+lien : Marie-duflot
+
+Le travail que vous sera demandé sera de choisir cinq exerices du castor informatique. Pour chacun de ces exercices vous devrez les décrire avec trois mots.
+
+https://castor-informatique.fr/home.php > s'entrainer sur les sujets passés
+
+Exemple :
+Année : 2014
+titre : attraper le monstre
+mot1 : dichotomie
+mot2 : Première NSI
+mot3 : activité approche
+
+
+
+
+# Onglet 2
+
+menu déroulant Année (pré remplir)
+menu déroulant titre (s'automatise en proposant le choix des titres une fois l'année connue)
+zone de saisie 1
+zone de saisie 2
+zone de saisie 3
+
+# Onglet 3
+Nuage de mot qui s'affiche sur l'exercice pour comparaison avec d'autres
+
+# 8 autres onglets comme ça
+
+# Onglet final
+Nuage de mots de tous les exercices ?

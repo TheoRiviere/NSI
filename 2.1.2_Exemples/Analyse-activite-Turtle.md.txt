@@ -1,0 +1,65 @@
+# Comparaison de l'analyse avec les intentions du concepteur
+
+Objectifs :
+"zone de texte reprenant la saisie de l'enseignant"
+Intentions du concepteur :
+-prendre en main un environnement de développement : de l'interpréteur vers le bloc note
+- Concept de séquence
+- Concept boucle bornée pour la répétion
+- Concept d'affectation
+- concept de fonction
+
+pré-requis à cette activité :
+"zone de texte reprenant la saisie de l'enseignant"
+Intentions du concepteur :
+Pas de pré-requis. Première activité de l'année en programmation
+
+Durée de l'activité :
+"zone de texte reprenant la saisie de l'enseignant"
+Intentions du concepteur : 3 heures
+
+Exercices cibles :
+"zone de texte reprenant la saisie de l'enseignant"
+Intentions du concepteur :
+
+- Exercice 5 : 1H. Faire comprendre l'intérêt du bloc-note pour écrire un algorithme / Concept de séquence d'instructions
+- Exercice 11 : 1H. Concept de boucle bornée ou d'affectation selon la démarche de l'élève
+- Exercice 14 : 1H. Concept de fonction
+
+Description du déroulement de l'activité :
+"zone de texte reprenant la saisie de l'enseignant"
+Intentions du concepteur :
+
+- Première heure : exercice 1 à 5. Présentation très rapide (moins de 3min) de l'intérpréteur Python (peut être mettre une vidéo). Quelques calculs / Syntaxe de l'import de la bibliothèque Python math avec sqrt. Les élèves avancent en autonomie pendant que l'enseignant passe de poste en poste pour valider les solutions proposées par l'élève. Très vite les élèves s'agacent sur l'exercice 5 en raison de la longueur des diagonales qu'ils cherchent, et donc ne peuvent trouver, par tatonnement. Ils doivent donc régulièrement resetter leur figure et recommencer de 0.
+La fin de la séance voit la présentation du bloc note et de la notion de séquence associé à l'exécution d'un script, pour ne pas avoir à tout retaper lorsque l'on programme.
+- Deuxième heure :Exercice 8 à 11. Les élèves tapent leur script dans le bloc note pour reproduire les figures. Ils manipulent dans un premier temps beaucoup de copier coller en se retrouvant en échec devant un angle cherché par tatonnement. Deux stratégies se dégagent alors, certains demandent si il n'existe pas une instruction permettant de répéter comme en "Scratch", d'autres demandent si'il n'est pas possible de "sauver" la valeur de l'angle pour ne pas avoir à tout modifier. L'enseignant présente au besoin la boucle bornée ou l'affectation. Ces deux notions sont donc formalisées par les élèves et non posées comme pré-requis par l'enseignant.
+Les élèves travaillent en autonomie pendant la séance, l'enseignant passant de poste en poste, en aidant ou validant les solutions proposées par les élèves. La fin d'heure voit uen synthèse être effectuée en présentant les différentes solutions proposées par les élèves (affectation ou boucle bornée). Il n'est pas exclu qu'un élève sorte la fonction circle. Il est judicieux de rebondir alors et de faire remarquer que square n'existant pas on a qu'à la créer. On peut alors leur montrer la syntaxe d'une fonction en python. Fonction ne prenant pas de paramètres. Cela sera l'objet de la séance 3.
+- Troisème heure : Exercice 12 à 14.
+"zone de texte reprenant la saisie de l'enseignant"
+Intentions du concepteur :
+En partie de la fonction carre qui est donnée :
+
+```
+def carre():
+    for k in range(4):
+        forward(100)
+        left(90)
+```
+
+les élèves sont incités à faire les exercices. c'est l'occasion de continuer à travailler la notion de séquence. L'exerice 13 voit en général les élèves programmer une fonction carre2. Le 14 voit le besoin de "mettre un paramètre".
+
+Anticipation des difficultés des élèves :
+"zone de texte reprenant la saisie de l'enseignant"
+Intentions du concepteur :
+Le travail se veut totalement individuel, charge à l'enseigne d'apporter de l'aide sur
+
+- la manipulation de l'interpréteur
+- aide au déboggage
+- syntaxe python de l'affectation ou de la boucle bornée sur demande
+
+gestion de l'hétérogénéïté :
+"zone de texte reprenant la saisie de l'enseignant"
+Intentions du concepteur :
+Cette séance étant les premières en programmation, il est important de repérer très vite les élèves en difficulté technique pour les aider dans la manipulation de l'environnement de développement choisi sous peine de voir un rejet de la programmation textuelle se développer.
+Le temps prévu pour cette activité 3H est suffisamment long pour permettre à tous les élèves d'avancer à leur rythme et d'être tous en réussite.
+Les exercice 6 et 7 ainsi que ceux à partir du 15 sont des exercices "défis" permettant aux élèves en avance de progresser davantage.
