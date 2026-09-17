@@ -1,0 +1,20 @@
+Projet de jeu vidéo 2D sur Godot
+
+https://www.youtube.com/watch?v=LOhfqjmasi0
+
+-- les connaissances travaillées
+Analyse d'un moteur de jeu vidéo
+Explication du contexte du moteur et des principales fonctionnalités
+
+-- le format pédagogique (durée, seul, binôme, groupe...)
+Présentation orale à la classe de 15 minutes
+Groupe jusqu'à 4 personnes
+Suivre le tutoriel, aller plus loin si possible
+
+-- les étayages pour assurer une progression des élèves
+-- le calendrier (points d'étapes, rendus intermédiaires...)
+Réaliser les mouvements d'un personnage
+Créer un niveau intéractif
+Gérer des ennemis
+Créer une condition de victoire et une fin de partie
+Aller plus loin
