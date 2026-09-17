@@ -2,6 +2,7 @@
 
 ## Objectifs :
 Faire comprendre par l'expérience qu'un réseau est une ressource partagée par plusieurs utilisateurs, et que des comportements individuels « égoïstes » peuvent provoquer un blocage complet de la circulation des données (deadlock)
+
 L'activité vise à faire percevoir la notion de congestion réseau, et à amener les élèves à identifier par eux-mêmes qu'une coopération ou des règles de circulation (protocole) sont nécessaires pour éviter le blocage
 
 ## pré-requis à cette activité :
@@ -15,12 +16,18 @@ Cette activité prépare des exercices ultérieurs sur les mécanismes de conges
 
 ## Description du déroulement de l'activité :
 
-- Première partie : Mise en place du jeu\
-Les élèves sont répartis en cercle par groupe de 5 ou plus\
-Deux papiers portent le nom de chacun des élèves sauf un, qui n'en a qu'une seule.\
-On distribue les papiers pour qu'aucun élève n'ai de papier a son nom.\
-Le but du jeu est que chaque élève ait le ou les papiers à son nom.\
-Deux règles : un seul papier par main, un papier ne peut être transmis qu'à un voisin immédiat qui a une main libre. \
+- Première partie : Mise en place du jeu
+
+Les élèves sont répartis en cercle par groupe de 5 ou plus
+
+Deux papiers portent le nom de chacun des élèves sauf un, qui n'en a qu'une seule.
+
+On distribue les papiers pour qu'aucun élève n'ai de papier a son nom.
+
+Le but du jeu est que chaque élève ait le ou les papiers à son nom.
+
+Deux règles : un seul papier par main, un papier ne peut être transmis qu'à un voisin immédiat qui a une main libre. 
+
 
 Aucun gagnant individuel
 
