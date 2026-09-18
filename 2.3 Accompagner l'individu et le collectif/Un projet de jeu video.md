@@ -8,8 +8,13 @@ Analyse d'un moteur de jeu vidéo
 
 Explication du contexte du moteur et des principales fonctionnalités
 
+Utilisation des chapitres vus en cours :
+- types construits
+- programmation orientée objet
+- interface et implémentation
+
 ## le format pédagogique (durée, seul, binôme, groupe...)
-Durée : sur 3 mois.
+Durée : sur 3 mois. rendu chaque mois.
 
 Présentation orale de fin à la classe d'une durée de 15 minutes
 
