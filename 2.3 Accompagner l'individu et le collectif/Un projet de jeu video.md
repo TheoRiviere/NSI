@@ -1,39 +1,41 @@
 # Projet de jeu vidéo 2D sur Godot
-basé sur le tutorial de Brackeys
-https://www.youtube.com/watch?v=LOhfqjmasi0
 
-## les connaissances travaillées
+*Basé sur le [tutoriel de Brackeys sur YouTube](https://www.youtube.com/watch?v=LOhfqjmasi0)*
 
-Analyse d'un moteur de jeu vidéo
+**Niveau visé :**  Terminale NSI
 
-Explication du contexte du moteur et des principales fonctionnalités
+## Les connaissances travaillées
 
-Utilisation des chapitres vus en cours :
-- types construits
-- programmation orientée objet
-- interface et implémentation
+Ce projet permet aux élèves d'appliquer et de consolider plusieurs notions du programme officiel de NSI dans un contexte de développement concret :
 
-## le format pédagogique (durée, seul, binôme, groupe...)
-Durée : sur 3 mois. rendu chaque mois.
+- **Types construits** (p-uplets, tableaux, dictionnaires) : utilisés pour représenter l'état du jeu (position des personnages, inventaire, statistiques...).
+- **Programmation orientée objet** : modélisation des entités du jeu (joueur, ennemis, objets) sous forme de classes, avec héritage et encapsulation.
+- **Interface et implémentation** : distinction entre ce qu'expose un objet (méthodes publiques) et la façon dont il est réalisé en interne, illustrée par les nœuds et scripts de Godot.
 
-Présentation orale de fin à la classe d'une durée de 15 minutes
+Au-delà de ces notions techniques, le projet développe la capacité à analyser un moteur de jeu vidéo existant : comprendre son architecture (scènes, nœuds, scripts), identifier ses fonctionnalités principales, et adapter un tutoriel existant à un projet personnel.
 
-Groupe jusqu'à 4 personnes.
+## Le format pédagogique
 
-Suivre le tutoriel, aller plus loin si possible.
+**Durée :** 3 mois, avec un rendu à la fin de chaque mois.
 
-## les étayages pour assurer une progression des élèves
-Réaliser un tableau kanban avec les tâches à réaliser sur un outil de suivi de projet
+**Groupes :** jusqu'à 4 élèves par groupe 
 
-Rendu "papier" en plus du lien vers le répo github
+**Consigne :** suivre le tutoriel de Brackeys comme base, puis aller au-delà des fonctionnalités proposées si le temps le permet.
 
-## le calendrier (points d'étapes, rendus intermédiaires...)
-Réaliser les mouvements d'un personnage - appropriation des assets
+**Restitution finale :** présentation orale devant la classe, d'une durée de 15 minutes par groupe.
 
-Créer un niveau intéractif - appropriation des assets
+**Modalités d'évaluation :** une grille de critères communs au groupe portant sur le respect du cahier des charges et la qualité du code, combinée à une évaluation individuelle basée sur les questions posées à chaque élève pendant l'oral et sur le suivi de son activité dans le dépôt GitHub, afin de valoriser la contribution réelle de chacun au sein du groupe.
 
-Gérer des ennemis
+## Les étayages pour assurer une progression des élèves
 
-Créer une condition de victoire et une fin de partie
+- Un tableau Kanban (outil de suivi de projet) permet à chaque groupe de visualiser les tâches à faire, en cours et terminées, et sert de support lors des points d'étape.
+- Un rendu « papier » accompagne le lien vers le dépôt GitHub, pour garder une trace synthétique de l'avancement en dehors du code.
+- Aborder les points de blocages durant les cours prévus pour avancer le projet (au moins 1h par semaine)
 
-Aller plus loin
+## Le calendrier
+
+| Rendu | Étapes associées |
+|---|---|
+| Mois 1 | Mouvements du personnage et appropriation des assets ; création d'un niveau interactif |
+| Mois 2 | Gestion des ennemis ; condition de victoire et fin de partie |
+| Mois 3 | Finalisation et améliorations libres (« aller plus loin ») ; préparation de la présentation orale |
