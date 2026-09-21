@@ -1,7 +1,7 @@
 **Thème du programme NSI choisi :** Algorithmique — parcours de tableaux, recherche séquentielle et recherche dichotomique (Première NSI)
 
 1. **fiche prof** : [Fiche prof.md](https://github.com/TheoRiviere/NSI/blob/main/2.5_Evaluation-par-les-pairs/Fiche%20prof.md) <br/>
-activité élève : [Activité élève](https://github.com/TheoRiviere/NSI/blob/main/2.5_Evaluation-par-les-pairs/Activit%C3%A9%20%C3%A9l%C3%A8ve)
+activité élève : [Activité élève](https://github.com/TheoRiviere/NSI/blob/main/2.5_Evaluation-par-les-pairs/Activit%C3%A9%20%C3%A9l%C3%A8ve.md)
 
 2. **analyse d'intention** de l'activité élève : [Analyse d'intention.md](https://github.com/TheoRiviere/NSI/blob/main/2.5_Evaluation-par-les-pairs/Analyse%20d'intention.md)
 
